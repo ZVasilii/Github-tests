@@ -4,5 +4,5 @@ int main()
 {
 	printf("Hello,world!\n");
 	printf("Lefe's bad!\n");
-	return 2;
+	return 4;
 }
